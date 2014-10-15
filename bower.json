@@ -1,0 +1,10 @@
+{
+  "name": "jquery-transform",
+  "version": "0.1.0",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "greensock-js": "latest",
+  }
+}
