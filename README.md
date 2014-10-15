@@ -1,11 +1,11 @@
-jquery-transform
+jquery-transformer
 ====
 
 ## Install
 Install with:
 
 ```
-bower install jquery-transform
+bower install jquery-transformer
 ```
 
 ## API
