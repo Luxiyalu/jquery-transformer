@@ -11,13 +11,13 @@ $ bower install jquery-transformer
 ## API
 Usage is similar to jQuery's `$('#ele').CSS()`:
 
-#### Get the transformation value of certain property:
+#### 1. Get the transformation value of certain property:
 ```javascript
 $('#ele').transform('rotationX') 
 // returns 120
 ```
 
-#### Set the transformation value of certain property:
+#### 2. Set the transformation value of certain property:
 ```javascript
 $('#ele').transform('rotationX', 120) 
 
@@ -25,13 +25,13 @@ $('#ele').transform('rotationX', 120)
 $('#ele').transform('rotationX', 120).transform('rotationX') //returns 120
 ```
 
-#### Get element's CSS transformation string:
+#### 3. Get element's CSS transformation string:
 ```javascript
 $('#ele').transform() 
 // Equivalent to $('#ele').css('transform')
 ```
 
-#### Clear all transformation:
+#### 4. Clear all transformation:
 ```javascript
 $('#ele').transform(false) 
 // Equivalent to $('#ele').css('transform', 'none')
