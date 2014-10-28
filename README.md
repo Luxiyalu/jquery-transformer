@@ -12,7 +12,7 @@ $ bower install jquery-transformer
 
 
 ## API
-Usage is similar to jQuery's `$('#ele').CSS()`:
+Usage is similar to jQuery's `$('#ele').css()`:
 
 #### .transform(propName)
 
