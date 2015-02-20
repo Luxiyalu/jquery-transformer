@@ -5,6 +5,6 @@
   },
   "dependencies": {
     "jquery": "~1.11.0",
-    "greensock-js": "latest"
+    "gsap": "latest"
   }
 }
