@@ -5,7 +5,7 @@ jquery-transformer
 Install with:
 
 ```command
-$ bower install jquery-transformer
+$ yarn add jquery-transformer
 ```
 **Notice:** `jquery-transformer` depends upon both jQuery AND TweenMax!
 
